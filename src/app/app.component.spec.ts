@@ -110,4 +110,6 @@ describe('AppComponent', () => {
     expect(router.navigate).toHaveBeenCalledWith(['/characters'], { replaceUrl: true });
   }));
 
+
+
 });
